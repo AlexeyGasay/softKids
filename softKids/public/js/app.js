@@ -94,7 +94,7 @@ const courses = [
         descr: "Курc по использованию графического планшета в Photoshop.",
         age: "10 - 15 лет",
         duration: "~6 месяцев",
-        img: "https://itc.ua/wp-content/uploads/2019/11/5c810a98ec05c4bb24000137-5.jpg"
+        img: "https://img.gazeta.ru/files3/491/14603491/Depositphotos_336911852_XL-pic_32ratio_900x600-900x600-7837.jpg"
     },
     {
         id: 9,
@@ -110,7 +110,7 @@ const courses = [
         descr: "Изучение основ программирование на языке Lua.",
         age: "9 - 12 лет",
         duration: "~9 месяцев",
-        img: "https://itc.ua/wp-content/uploads/2021/11/kak-ustanovit-igru-roblox-i-igrat-v-nee-na-ubuntu.jpg"
+        img: "https://newxboxone.ru/wp-content/uploads/2021/10/roblox-best-games-roblox-main-promo-image_large.jpg"
     },
     {
         id: 11,
